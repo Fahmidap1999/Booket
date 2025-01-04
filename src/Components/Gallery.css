@@ -1,0 +1,14 @@
+/* src/components/Gallery.css */
+.gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  
+  .gallery img {
+    margin: 10px;
+    width: 150px;
+    height: 100px;
+    border-radius: 5px;
+  }
+  

@@ -1,0 +1,177 @@
+
+@media only screen and (min-width:768px)
+{
+  
+.list:hover {
+  scale: 1.05;
+}
+
+#bars,#cancel
+{
+  display: none;
+}
+
+.navbar{
+  transition: all 0.5s;
+}
+ .navbar-scrolled
+{
+  background-color:#bb9457 ;
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.15);
+ 
+} 
+
+.navlist
+{
+  width: 75%;
+
+}
+.navitems
+{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  padding: 5px;
+}
+.list
+{
+  display:inline;
+  padding: 1%;
+
+}
+.link
+{
+  text-decoration: none;
+  font-size: 20px;
+  padding: 5px;
+  color:white;
+  cursor: pointer;
+}
+link:active,.link:hover{
+  color: #ffbe1b;
+}
+
+
+.navname
+{
+  width: 50%;
+  text-decoration: none;
+  color:#ffffff;
+  font-size: 30px;
+  margin-top: 10px;
+  margin-left: 20px;
+  font-family: Georgia;
+  font-style: normal;
+}
+
+}
+@media only screen and (max-width:768px)
+{
+  
+#bars
+{
+  display: flex;
+
+}
+#cancel
+{
+  display: none;
+}
+
+#bars,#cancel
+{
+  font-size: 35px;
+  color:white;
+  position: absolute;
+  top:2;
+  right:0;
+  margin-top: 2%;
+  margin-right: 2%;
+}
+
+.navbar
+{
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  width: 100%;
+  background-color: #bb9457;
+}
+.navbar-scrolled
+{
+  background-color:#bb9457 ;
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.15);
+ 
+}
+.logoflex
+{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 2%;
+
+}
+.navlist
+{
+  width: 100%;
+  position: relative;
+  left:-100%;
+  display: none;
+ background: #bb9457;
+ 
+}
+.navitems
+{
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  padding: 5px;
+
+}
+.list
+{
+  display:flex;
+  justify-content: center;
+  padding: 1%;
+}
+.link
+{
+  text-decoration: none;
+  font-size: 20px;
+  padding: 5px;
+  color:white;
+}
+link:active,.link:hover{
+  color: #ffbe1b;
+}
+.logoflex
+{
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+}
+
+.navname
+{
+  width: 50%;
+  text-decoration: none;
+  color:#ffffff;
+  font-size: 25px;
+  align-self: center;
+  margin-top: 10px;
+  margin-left: 20px;
+  justify-content: flex-start;
+  text-align: start;
+  font-family: Georgia;
+  font-style: normal;
+ 
+
+}
+
+.list:hover
+{
+  scale: 1;
+}
+}
