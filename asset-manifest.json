@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/eagle-nest-residency/static/css/main.fd1f9e2b.css",
+    "main.js": "/eagle-nest-residency/static/js/main.acc07b03.js",
+    "static/js/453.e4c39b19.chunk.js": "/eagle-nest-residency/static/js/453.e4c39b19.chunk.js",
+    "static/media/egnvideo.mp4": "/eagle-nest-residency/static/media/egnvideo.83eb116bd9da53f1d402.mp4",
+    "static/media/maria.jpg": "/eagle-nest-residency/static/media/maria.d69c683085509c86e18f.jpg",
+    "static/media/sit-area.jpeg": "/eagle-nest-residency/static/media/sit-area.6c16c302c374a733d585.jpeg",
+    "static/media/logo1.jpeg": "/eagle-nest-residency/static/media/logo1.b8ad4d07ea678dfd9d82.jpeg",
+    "static/media/dhBG.jpeg": "/eagle-nest-residency/static/media/dhBG.efaf3610590fcf5de069.jpeg",
+    "static/media/bedroom.jpeg": "/eagle-nest-residency/static/media/bedroom.d84c3a57b1ed5286827c.jpeg",
+    "static/media/logo.jpeg": "/eagle-nest-residency/static/media/logo.4481ab515e2273c4eed4.jpeg",
+    "index.html": "/eagle-nest-residency/index.html",
+    "main.fd1f9e2b.css.map": "/eagle-nest-residency/static/css/main.fd1f9e2b.css.map",
+    "main.acc07b03.js.map": "/eagle-nest-residency/static/js/main.acc07b03.js.map",
+    "453.e4c39b19.chunk.js.map": "/eagle-nest-residency/static/js/453.e4c39b19.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd1f9e2b.css",
+    "static/js/main.acc07b03.js"
+  ]
+}
