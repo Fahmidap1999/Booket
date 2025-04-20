@@ -7,7 +7,7 @@
     font-style: normal;
 }
 section{
-    min-height: 90vh;
+    min-height: 50vh;
     /* background:url("./navyBlueBg.jpg")  center center  no-repeat  fixed; */
     background-color:#feffea;
     background-size:cover;
