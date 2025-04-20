@@ -29,11 +29,13 @@ const Hero=()=>
         <Nav/>
             <div  className="Hero-banner">
                
-                <h1 className='Hero-Head'>Rooms & Suites</h1>
+                <h1 className='Hero-Head'>Rooms<br></br>
+                & <br></br>
+                Convention Hall</h1>
                 <p>
-                 Simply for You
+                 Just for You
                 </p>
-                <a href="#Services" className="Hero-btn">Book Now</a>
+                <a href="#Services" className="Hero-btn">View Rooms</a>
                 <div className="overlay"></div>
 
             </div>

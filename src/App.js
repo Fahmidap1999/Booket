@@ -1,9 +1,11 @@
 // src/App.js
 import React from 'react';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import 'bootstrap/dist/js/bootstrap.bundle.min';
 import Hero from './Components/Hero.js';
 import About from "./Components/About.js";
 import Services from './Components/Services.js';
-import Footer from './Components/Footer';
+import Footer from './Components/Footer.js';
 
 // import Gallery from './Components';
 import './App.css';
@@ -22,7 +24,7 @@ import './App.css';
     <Hero/>
     <About/>
     <Services/>
-       
+    <Footer/>
     </>
     // <div className="app">
       // <Hero />

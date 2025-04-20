@@ -57,7 +57,8 @@ link:active,.link:hover{
 {
   width: 50%;
   text-decoration: none;
-  color:#ffffff;
+  /* color:#ffffff; */
+  color:white;
   font-size: 30px;
   margin-top: 10px;
   margin-left: 20px;

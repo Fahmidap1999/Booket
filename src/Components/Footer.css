@@ -1,4 +1,4 @@
-.Gallery
+/* .Gallery
 {
     border: 5px solid darkblue;
     text-align: center;
@@ -71,4 +71,28 @@
     border-bottom: 5px solid darkblue;
     margin:1% 0%;
     text-align: center;
+} */
+.footer {
+    background-color: #303137; /* Dark background */
+    color: white; /* Text color */
+    text-align: center; /* Center align text */
+    padding: 20px 0; /* Add vertical padding */
+    position: relative; /* Default position */
+    width: 100%; /* Full width */
+    bottom: 0; /* Stick to the bottom */
+    padding: 50px 10px 10px 10px; /* Add vertical padding */
+}
+.contact-info {
+    margin-top: 10px; /* Add spacing above contact info */
+    font-size: 14px; /* Adjust font size */
+    line-height: 1.5; /* Improve readability */
+}
+.map-container {
+    margin-top: 20px; /* Add spacing above the map */
+    margin-bottom: 20px; /* Add spacing below the map */
+    width: 100%; /* Full width */
+    height: 200px; /* Fixed height for the map */
+    overflow: hidden; /* Prevent overflow */
+    border-radius: 10px; /* Optional: Add rounded corners */
+    
 }

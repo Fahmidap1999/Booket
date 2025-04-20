@@ -2,8 +2,7 @@ import React, { useEffect } from "react";
 import "./Nav.css"
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { page } from "../data.js";
-import logo from "./images.jfif";
-import { useState } from "react";
+
 const Nav = () => {
 
     const Show = () => {
